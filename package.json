@@ -7,7 +7,7 @@
   "author": "Cody Ogden",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^27.0.1",
+    "@types/jest": "^27.4.0",
     "@types/lodash": "^4.14.172",
     "@types/react": "^17.0.38",
     "@types/styled-components": "^5.1.20",
@@ -29,7 +29,7 @@
     "react-hook-form": "^7.24.1",
     "react-select": "5.2.2",
     "slugify": "1.6.5",
-    "styled-components": "5.3.1"
+    "styled-components": "5.3.3"
   },
   "scripts": {
     "dev": "next dev",
